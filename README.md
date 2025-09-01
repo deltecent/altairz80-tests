@@ -17,6 +17,9 @@ Automated tests for the [SIMH/AltairZ80 simulator](https://github.com/open-simh/
 * [MultiStar: IBC OASIS multi-user version 5.6](https://github.com/hharte/altairz80-packages/blob/main/ibcmcc_oasis56)
 * [MegaStar: IBC OASIS multi-user version 5.6](https://github.com/hharte/altairz80-packages/blob/main/ibcscc_oasis56)
 * [CP/M-80 (Altair)](https://schorn.ch/cpm/zip/cpm2.zip) ZEXALL Z80 instruction set test.
+* [SD Systems SD-OS (SBC-200)](https://github.com/deltecent/altairz80-packages/blob/main/sds_sdos)
+* [SD Systems CP/M 2 (SBC-200)](https://github.com/deltecent/altairz80-packages/blob/main/sds_cpm2)
+* [SD Systems CP/M 3 (SBC-200)](https://github.com/deltecent/altairz80-packages/blob/main/sds_cpm3)
 
 ## Running the Tests
 
